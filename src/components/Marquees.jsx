@@ -1,5 +1,5 @@
 import React from "react";
-import Marquee from "./marquee";
+import Marquee from "./Marquee";
 
 const Marquees = () => {
   const images = [
