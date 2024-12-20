@@ -74,7 +74,7 @@ const Products = () => {
               autoPlay
               loop
               className="w-full h-full object-cover "
-              src="src\assets\cula-43.webm"
+              src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/cula-43.webm"
             />
           </motion.div>
           <motion.div
@@ -87,7 +87,7 @@ const Products = () => {
               autoPlay
               loop
               className="w-full h-full object-cover "
-              src="src\assets\layoutland-43.webm"
+              src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/umault-43.webm"
             />
           </motion.div>
           <motion.div
@@ -100,7 +100,7 @@ const Products = () => {
               autoPlay
               loop
               className="w-full h-full object-cover "
-              src="src\assets\people-short.webm"
+              src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/arqitel-43.webm"
             />
           </motion.div>
           <motion.div
@@ -113,7 +113,7 @@ const Products = () => {
               autoPlay
               loop
               className="w-full h-full object-cover "
-              src="src\assets\umault-43.webm"
+              src="https://files.refokus.com/storage/v1/object/public/Website%20Assets/people-short.webm"
             />
           </motion.div>
           <motion.div
@@ -126,7 +126,7 @@ const Products = () => {
               autoPlay
               loop
               className="w-full h-full object-cover "
-              src="src\assets\video1.webm"
+              src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/cula-43.webm"
             />
           </motion.div>
         </motion.div>
