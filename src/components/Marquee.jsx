@@ -6,7 +6,7 @@ const Marquee = ({ imageUrls, direction }) => {
       <motion.div
         initial={{ x: direction === "left" ? "0" : "-100%" }}
         animate={{ x: direction === "left" ? "-100%" : "0" }}
-        transition={{ ease: "linear",duration:40,  repeat: Infinity }}
+        transition={{ ease: "linear", duration: 40, repeat: Infinity }}
         className="flex flex-shrink-0 py-10 gap-32 pr-20"
       >
         {imageUrls.map((img, i) => (
